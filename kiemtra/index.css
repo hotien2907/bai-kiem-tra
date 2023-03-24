@@ -1,0 +1,28 @@
+.khoi-vang {
+    background-color:#F3C563;
+    opacity:0,5;
+    position: relative;
+    bottom: 150px;
+    width: 500px;
+    height: 100;
+    padding: 20px;
+    font-size: 30px;
+    opacity: 0,5;
+    
+}
+    
+
+.anh-nho img {
+    width: 600px;
+    border-top: 15px solid #F3C563;
+} 
+.dieu-huong{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 100px;
+    justify-content: space-around;
+    font-size: 20px;
+}
+.khung-lon{
+    border: 2px solid rebeccapurple;
+}
